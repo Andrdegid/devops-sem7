@@ -1,0 +1,9 @@
+---
+- src: git+https://github.com/Andrdegid/ansible-role-docker.git
+  name: docker
+
+- src: git+https://github.com/Andrdegid/ansible-role-nginx.git
+  name: nginx
+
+- src: git+https://github.com/Andrdegid/ansible-role-django_app.git
+  name: django_app
